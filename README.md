@@ -151,15 +151,13 @@ placement prediction tool/
 │   └── requirements.txt
 │
 ├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── api/
-│   │   └── styles/
-│   ├── package.json
-│   └── vite.config.js
-│
-└── README.md
+    ├── src/
+    │   ├── components/
+    │   ├── pages/
+    │   ├── api/
+    │   └── styles/
+    ├── package.json
+    └── vite.config.js
 ```
 
 ---
