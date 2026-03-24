@@ -227,7 +227,7 @@ These are used for:
 
 ## 👨‍💻 Author
 
-**Bharath Veesam , akhil and saravan reddy**
+**Bharath Veesam , sai sri akhil bhimaraju and saravan reddy**
 B.Tech AIML Students
 Passionate about AI, startups, and solving real-world problems.
 
